@@ -1,6 +1,3 @@
-# web_development
-Using php and mysql
-
 # FEST MANAGEMENT SYSTEM
 
 ABSTRACT:
