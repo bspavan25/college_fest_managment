@@ -55,4 +55,4 @@ They can add upto 3 events per day.
 Winners are declared by Admin in the webpage.
 Any institute or organisations conducting fests can use this type of management system. 
 
---The end--< download,extract and run using any server >
+--The end--< open home.html in scripts folder and btw admin credentials : Login id: hhh , password: hhh >
